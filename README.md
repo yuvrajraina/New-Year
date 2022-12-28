@@ -1,6 +1,5 @@
-Happy Birthday
-
-A Happy Birthday animation design in CSS3, HTML5.
+Happy New Year
+A Happy New Year animation design in CSS3, HTML5.
 
 URL: https://github.com/vikrambadhan/Birthday-Wishes-To-the-Savvy-One
 
